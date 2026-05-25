@@ -198,13 +198,6 @@ The reminder card sent to Teams looks like this:
 5. Open a Pull Request.
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 📬 Contact
 
 For questions or issues, open a GitHub Issue or reach out through your organization's internal channels.
