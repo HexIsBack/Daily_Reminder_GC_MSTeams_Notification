@@ -153,7 +153,7 @@ SkipSundayCondition
    │    (Send Adaptive Card → Group Chat 1)
    │       │
    │       ▼
-    │    MS_TEAMS_GC < PLACEHOLDER
+   │    MS_TEAMS_GC < PLACEHOLDER
    │    (Send Adaptive Card → Group Chat 2)
    │
    └─ FALSE (Sunday)
