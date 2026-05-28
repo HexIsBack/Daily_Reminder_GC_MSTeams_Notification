@@ -156,7 +156,7 @@ SkipSundayCondition
    │    MS_TEAMS_GC < PLACEHOLDER
    │    (Send Adaptive Card → Group Chat 2)
    │
-   └─ FALSE (Sunday)
+   └─ FALSE (Sunday) / (HOLIDAYS)
            │
            ▼
         Compose ("Skipped notification: Today is Sunday.")
